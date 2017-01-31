@@ -1,7 +1,7 @@
 catalog:
 name: john-web-test
 version: 0.1
-description: "plop"
+description: "johntestdir"
 uuid: john-web-test
 version: '2'
 services:
