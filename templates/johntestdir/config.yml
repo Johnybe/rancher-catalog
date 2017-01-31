@@ -1,0 +1,5 @@
+name: john-web-test
+description: |
+        plop
+version: 0.2-rancher2
+category: Web
