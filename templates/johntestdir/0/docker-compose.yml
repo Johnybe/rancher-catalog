@@ -1,0 +1,10 @@
+version: '2'
+services:
+  web-test:
+    image: rawmind/web-test
+    tty: true
+    labels:
+      traefik.port: '8080'
+      io.rancher.container.hostname_override: container_name
+      traefik.domain: local
+      traefik.enable: 'true'
